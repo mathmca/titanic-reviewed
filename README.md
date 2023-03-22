@@ -1,7 +1,7 @@
 # Reviewing The Classic Kaggle Dataset
 Practicing data visualization and manipulation with Plotly and Pandas
 
-![My Image](flow_chart.png)
+<img src="./flow_chart.png" width=600 height=200>
 
 Scenario:
 1. Receive two datasets (train and test) in different .csv files;
